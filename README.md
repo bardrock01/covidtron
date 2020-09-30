@@ -1,2 +1,2 @@
-# covidtron
+# Covidtron project
 melon jam
